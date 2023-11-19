@@ -14,7 +14,7 @@
 
 ---
 # Deploy to Heroku
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/HackerADbro/down1)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/Adity012/down1)
 
 # Deploy to vps
 sudo apt update
